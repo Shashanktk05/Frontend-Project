@@ -3,8 +3,8 @@ let words=["s","w","g"];
 let user =0;
 let compu=0;
 let draw=0;
-let comp=words[Math.floor(Math.random()*words.length)]
 while(a){
+    let comp=words[Math.floor(Math.random()*words.length)]
     let i = prompt("Enter Any one S W G")
     if( i=="w"){
         if(comp=="g"){
