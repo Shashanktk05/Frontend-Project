@@ -1,0 +1,16 @@
+.clock{
+    border: 2px solid grey;
+    text-align: center;
+    justify-content: center;
+    margin: 150px auto;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+}
+.box{
+    display: flex;
+    justify-content: center;
+}
+h3{
+    padding-top: 90px;
+}
