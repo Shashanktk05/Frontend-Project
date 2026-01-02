@@ -3,7 +3,7 @@
 // console.log("Hello World")
 
 //VARIABLES
-
+//Simple Text
 // var a=57
 // console.log(a)
 // a="hello"
